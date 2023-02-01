@@ -1,1 +1,1 @@
-
+1.) The pros of Agile development versus other systems such as Waterfall development is that waterfall development is costly and requires a great deal of foresight meanwhile Agile development is a more flexible system that can build perhaps not a feature-complete but a useable product sooner into the development cycle. It also test features as they are implemented and therefore can assist in product development in finding bugs, etc.
