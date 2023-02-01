@@ -2,4 +2,15 @@
 foresight meanwhile Agile development is a more flexible system that can build perhaps not a feature-complete but a useable product sooner into the
 development cycle. It also test features as they are implemented and therefore can assist in product development in finding bugs, etc.
 
+2.) The product owner discusses with the stakeholder and determines the direction of the team meanwhile the scrum master determines how the team will be
+run in terms of JIRA tooling and daily meetings/standups.
 
+3.) The three types of meetings are the Sprint Planning Meeting (where the team determines what to complete in the coming sprint and moves scores in the
+sprint scope from the backlog as well as determine story points), the Daily Scrum/Standup Meetings (short meetings that happen every day to gauge team
+progress and ensure employees are working on relevant projects), and the Sprint Retrospective Meeting (where the team meets at the conclusion of the sprint
+to discuss complete and uncomplete work to move material back to the backlog).
+
+4.) Epics are large pieces of a project which can be broken down further in subtasks (which are called stories). Stories are then pieces of these large
+projects which are small enough to have an easily addressable prompt. Then, bugs are an issue which have the capacity to block other tasks such as stories
+from being completed (and therefore define an order of completion). Finally, tasks are miscellaneous... tasks... that need to be completed yet are not
+quite stories.
